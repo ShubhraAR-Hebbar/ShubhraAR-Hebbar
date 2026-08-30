@@ -22,7 +22,7 @@
 I'm a full-stack developer (**MCA, Expected 2026, CGPA 8.36** — Atria Institute of Technology, Bengaluru) specializing in **AI-powered web applications** — React on the frontend, Python and modern API frameworks on the backend. I enjoy turning complex problems into clean interfaces and data-driven solutions.
 
 - 🎓 **Education:** MCA at Atria Institute of Technology (Expected Jun 2026) · BCA from SDM College, Mangalore (2024)
-- 💼 **Internship** AI Intern at **PAT Technologies Pvt. Ltd.**, building end-to-end ML pipelines
+- 💼 **Internship:** AI Intern at **PAT Technologies Pvt. Ltd.**, building end-to-end ML pipelines
 - 🧠 **Interests:** NLP, Sentiment Analysis, Image Recognition, Full-Stack Architecture
 - 📍 **Location:** Bangalore, India
 
